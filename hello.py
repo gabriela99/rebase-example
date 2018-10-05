@@ -10,9 +10,5 @@ def ask_for_name():
     print('have a nice day!')
 
 if __name__ == '__main__':
-<<<<<<< HEAD
     ask_for_name()
-=======
-    greeting()
     say_time()
->>>>>>> say the current time
