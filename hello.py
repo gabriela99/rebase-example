@@ -8,6 +8,10 @@ def ask_for_name():
     print('hi', name)
     print('have a nice day!')
 
+def calculate_stuff():
+    print('3 to the 6th power is', 3**6)
+
 if __name__ == '__main__':
     greeting()
     ask_for_name()
+    calculate_stuff()
